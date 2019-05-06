@@ -1,0 +1,16 @@
+.calendar_header {
+    background-image: linear-gradient(0deg, #1B6090 0%, #0B3157 100%);
+    width: 375px;
+    height: 65px;
+    vertical-align: middle;
+}
+
+.angle-down{
+    color: #E6EAEE;
+    opacity: 0.5;
+    padding: 7px;
+    width: 12.73px;
+    height: 7.78px;
+}
+
+

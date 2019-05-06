@@ -1,0 +1,17 @@
+.event_list{
+    width: 375px;
+    margin-top: 50px;
+    color: #E6EAEE;
+    background-color: #00BCD4;
+    padding: 20px;
+    border: 2px dashed #607D8B;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+
+}
+.name_time{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
