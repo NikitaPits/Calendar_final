@@ -6,4 +6,5 @@ export const constants = {
     day_component_standard: 'day_component_standard',
     day_component_holiday: 'day_component_holiday',
     day_picked: 'day_picked'
+    //days_of_week: ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
 }

@@ -1,17 +1,101 @@
 .event_list{
-    width: 375px;
-    margin-top: 50px;
-    color: #E6EAEE;
-    background-color: #00BCD4;
-    padding: 20px;
-    border: 2px dashed #607D8B;
+    background-color: #45B4B7;
+    width: 359px;
+    margin: 0 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
+    position: relative;
 
 }
 .name_time{
+    color: #FFFFFF;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    line-height: 17px;
+    opacity: 0.5;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10px;
+    padding: 10px;
+    padding-bottom: 5px;
+
 }
+.date_in_text{
+    color: #0B3157;
+    font-family: Montserrat-ExtraBold, sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: -0.3px;
+    line-height: 17px;
+    width: 343px;
+    height: 40px;
+    margin:0 auto;
+    text-align: left;
+    text-transform: uppercase;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+.event_list_all{
+    margin-top:30px;
+    width: 375px;
+    height: 100%;
+    min-height:120px ;
+}
+.event_body{
+    color: #FFFFFF;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    line-height: 19px;
+    width: 260px;
+    text-align: left;
+    padding: 10px;
+    padding-top: 0px;
+}
+.img{
+    width: 359px;
+    margin: 0;
+    height: 200px;
+    border-radius: 3px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+.box {
+    position: relative;
+    height: 200px;
+}
+
+.box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    bottom: 0;
+    background-color: rgba(7,50,124,.7);
+    transition: all .3s ease;
+}
+
+.event_list_img{
+    background-color: #45B4B7;
+    width: 359px;
+    margin: 0 auto;
+    border-radius: 3px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    position: relative;
+    bottom: 0;
+    opacity: 0.9;
+}
+

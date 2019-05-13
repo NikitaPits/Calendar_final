@@ -2,34 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c1b735-3ea4-4058-b338-3b9f65fb19be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Days_grid/DayComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Days_grid/Days_grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Days_grid/Event_marker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EventsList/EventList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EventsList/EventsList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/DaysOfWeak.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMonths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/controls/NextButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/controls/PrevButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/controls/This_month_button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/controls/This_week_button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/DOWContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/DateContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Days_grid/DayComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Days_grid/DayComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Days_grid/Days_grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Days_grid/Days_grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Days_grid/Event_marker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Days_grid/Event_marker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EventsList/EventList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventsList/EventList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EventsList/EventsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventsList/EventsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/DaysOfWeak.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/DaysOfWeak.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/DOWContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/DOWContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/events.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,79 +32,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DayComponent.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Event_marker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+            <state relative-caret-position="384">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/events.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Grid.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="41" column="102" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="102" />
+            <state relative-caret-position="103">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -124,10 +56,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/controls/PrevButton.js">
+        <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventsList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="496">
+              <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -136,13 +68,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/controls/NextButton.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Days_grid.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="400">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderMonths.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1024">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DayComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -150,8 +118,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventList.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="528">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/events.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -170,6 +147,7 @@
     <findStrings>
       <find>class</find>
       <find>date</find>
+      <find>L</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,31 +182,31 @@
         <option value="$PROJECT_DIR$/src/components/Header/Header_component.js" />
         <option value="$PROJECT_DIR$/src/components/Header/controls/Switch_to_week.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/utils/constants.js" />
-        <option value="$PROJECT_DIR$/src/components/Days_grid/Days_grid.css" />
         <option value="$PROJECT_DIR$/src/utils/DateContext.js" />
-        <option value="$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js" />
-        <option value="$PROJECT_DIR$/src/utils/DOWContext.js" />
         <option value="$PROJECT_DIR$/src/components/Header/controls/This_month_button.js" />
         <option value="$PROJECT_DIR$/src/components/Header/controls/This_week_button.js" />
         <option value="$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js" />
         <option value="$PROJECT_DIR$/src/components/Header/HeaderMonths.js" />
         <option value="$PROJECT_DIR$/src/components/Header/HeaderComponent.js" />
         <option value="$PROJECT_DIR$/src/components/Days_grid/DaysGrid.js" />
-        <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/components/Days_grid/Event_marker.js" />
-        <option value="$PROJECT_DIR$/src/components/EventsList/EventsList.js" />
-        <option value="$PROJECT_DIR$/src/components/Header/Header.css" />
-        <option value="$PROJECT_DIR$/src/components/Header/DaysOfWeak.css" />
-        <option value="$PROJECT_DIR$/src/components/EventsList/EventList.css" />
-        <option value="$PROJECT_DIR$/src/components/Header/controls/NextButton.js" />
         <option value="$PROJECT_DIR$/src/components/Header/controls/PrevButton.js" />
-        <option value="$PROJECT_DIR$/src/utils/events.json" />
+        <option value="$PROJECT_DIR$/src/utils/DOWContext.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/controls/NextButton.js" />
+        <option value="$PROJECT_DIR$/src/utils/constants.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/Grid.js" />
-        <option value="$PROJECT_DIR$/src/components/Days_grid/DayComponent.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js" />
         <option value="$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/DaysOfWeak.css" />
+        <option value="$PROJECT_DIR$/src/components/Days_grid/Event_marker.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Header.css" />
+        <option value="$PROJECT_DIR$/src/components/EventsList/EventsList.js" />
+        <option value="$PROJECT_DIR$/src/components/Days_grid/DayComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/Days_grid/Days_grid.css" />
+        <option value="$PROJECT_DIR$/src/components/EventsList/EventList.css" />
+        <option value="$PROJECT_DIR$/src/utils/events.json" />
+        <option value="$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js" />
       </list>
     </option>
   </component>
@@ -244,7 +222,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="263" />
+    <option name="x" value="146" />
+    <option name="y" value="4" />
     <option name="width" value="846" />
     <option name="height" value="688" />
   </component>
@@ -267,55 +246,7 @@
             <path>
               <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
               <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Days_grid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="EventsList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-              <item name="controls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Weeks_grid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calendar_final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calendar_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,6 +256,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calendar_task - копия" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -387,16 +319,27 @@
       <workItem from="1556896161635" duration="8270000" />
       <workItem from="1556955124166" duration="23692000" />
       <workItem from="1557045444469" duration="24699000" />
+      <workItem from="1557142624947" duration="1184000" />
+      <workItem from="1557209744421" duration="4721000" />
+      <workItem from="1557390542605" duration="597000" />
+      <workItem from="1557399444399" duration="14891000" />
+      <workItem from="1557428537589" duration="3134000" />
+      <workItem from="1557481278035" duration="14000000" />
+      <workItem from="1557513055381" duration="9470000" />
+      <workItem from="1557600862992" duration="5079000" />
+      <workItem from="1557606497868" duration="1287000" />
+      <workItem from="1557647496755" duration="2684000" />
+      <workItem from="1557657904114" duration="281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172939000" />
+    <option name="totallyTimeSpent" value="230267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -410,7 +353,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18300654" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30882353" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
@@ -419,33 +362,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/utils/DOWContext.js</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/components/Monthes.js" />
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Days_grid/For_test.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Days_grid/RenderDOM.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Weak_component.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Header/Rendering.js" />
@@ -460,187 +382,153 @@
     <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Get_days_arr.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Header/DaysOfWeek.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js" />
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DaysGrid.js" />
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/This_week_button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="-1666">
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/DateContext.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Days_grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/DOWContext.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DaysGrid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderMonths.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="70" column="31" lean-forward="true" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Event_marker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderComponent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventsList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/This_month_button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/DaysOfWeak.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="135" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Header/controls/PrevButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="58" column="2" lean-forward="true" selection-start-line="4" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/DateContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/DOWContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/NextButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/events.json">
+    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/This_week_button.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="300">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/This_month_button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Grid.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="195">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/DaysOfWeak.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/SwitchToWeek.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -649,60 +537,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="570">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/controls/NextButton.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Event_marker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="384">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/Days_grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderMonths.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="41" column="102" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="102" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1024">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DayComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        <state relative-caret-position="400">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Weeks_grid/Weeks_grid.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderDaysOfWeek.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="480">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/EventsList/EventList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
           <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Days_grid/DaysGridMoment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>

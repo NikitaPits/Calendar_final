@@ -3,8 +3,10 @@
     width: 375px;
     height: 280px;
     flex-flow: row wrap;
+    justify-content: space-between;
 }
 .day_component_standard{
+    padding-top: 9px;
     color: #0B3157;
     font-family: Montserrat, serif;
     width: 40px;
@@ -12,29 +14,32 @@
     margin: 6px;
     font-size: 16px;
     text-align: center;
-    font-weight: 400;
+    font-weight: bold;
     letter-spacing: -0.28px;
+    outline: none;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
 }
 .day_component_today{
-    background-color: lightsteelblue;
-    color: #E6EAEE;
+    padding-top: 9px;
+    color: #F06543;
     font-family: Montserrat, serif;
     width: 40px;
     height: 40px;
     margin: 6px;
     font-size: 16px;
     text-align: center;
-    font-weight: 400;
+    font-weight: bold;
     letter-spacing: -0.28px;
     border-radius: 8px;
     user-select: none;
     -moz-user-select: none;
+    outline: none;
     -webkit-user-select: none;
 }
 .day_component_holiday{
+    padding-top: 9px;
     color: crimson;
     font-family: Montserrat, serif;
     width: 40px;
@@ -42,16 +47,17 @@
     margin: 6px;
     font-size: 16px;
     text-align: center;
-    font-weight: 400;
+    font-weight: bold;
     letter-spacing: -0.28px;
     border-radius: 8px;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
+    outline: none;
 }
 .day_picked{
+    padding-top: 9px;
     outline: none;
-
     background-color: #0B3157;
     color: #E6EAEE;
     font-family: Montserrat, serif;
@@ -60,23 +66,12 @@
     margin: 6px;
     font-size: 16px;
     text-align: center;
-    font-weight: 400;
+    font-weight: bold;
     letter-spacing: -0.28px;
     border-radius: 8px;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
-}
-.day_picked::-moz-focus-inner {
-    border: 0;
-}
-.event{
-    background-color: aquamarine;
-    border-width: 6px;
-    border-radius: 2px;
-    height: 3px;
-    margin: 1px;
-    width: 9px;
 }
 
 .empty_day{
@@ -87,14 +82,46 @@
     -moz-user-select: none;
     -webkit-user-select: none;
 }
+.event{
+    border-width: 6px;
+    height: 3px;
+    background-color: #48C1C2;
+    border-radius: 6px;
+    max-width: 70%;
+    min-width: 30%;
+    margin: 0 7px;
+}
+.event2{
+    border-width: 6px;
+    height: 3px;
+    background-color: #48C1C2;
+    border-radius: 6px;
+    min-width: 28%;
+    margin: 0 1px;
+}
 
+.event3{
+    border-width: 6px;
+    height: 3px;
+    background-color: #48C1C2;
+    border-radius: 6px;
+    min-width: 19%;
+    margin: 0 1px;
+}
 .events{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
     text-align: center;
     width: 40px;
     box-sizing: border-box;
     overflow: hidden;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.grid{
+    height: 50px;
+    width: 375px;
+}
+.number_date{
+    vertical-align: middle;
 }

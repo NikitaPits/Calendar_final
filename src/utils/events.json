@@ -1,28 +1,73 @@
 {
   "days": [
     {
-      "date": "15-06-2019",
+      "date": "06-05-2019",
       "events":[{
-        "name":"Я справиля",
-        "body":"Я крайне клевый программист",
-        "time":"11:00"
+        "name":"Я справилcя",
+        "body":"Я почти программист",
+        "time":"11:00",
+        "img":"https://i.warosu.org/data/tg/img/0286/44/1386144520789.gif"
       }]
     },
     {
       "date": "22.06.2019",
       "events":[{
-        "name":"event 2",
-        "body":"event 2",
-        "time":"12:00"
+        "name":"Погулять",
+        "body":"Необходимо срочно что-то посетить",
+        "time":"12:00",
+        "img":"https://picsum.photos/375/200"
+      },
+        {
+          "name":"Соброние",
+          "body":"Послушать умных людей",
+          "time":"13:00",
+          "img":"http://www.asomovil.org/wp-content/uploads/2015/02/02-375x200.jpg"
+        }]
+    },
+    {
+      "date": "16.05.2019",
+      "events":[{
+        "name":"Тестовое",
+        "body":"Сдать тестовое",
+        "time":"12:00",
+        "img":"https://www.oilexp.ru/wp-content/uploads/2018/04/Screenshot_104-e1522832395571-375x200.jpg"
       }]
     },
     {
-      "date": "06.05.2019",
+      "date": "18.05.2019",
       "events":[{
         "name":"Тестовое",
-        "body":"Сдвть тестовое",
-        "time":"12:00"
-      }]
+        "body":"Сдать тестовое",
+        "time":"12:00",
+        "img":"http://kadampanewyork.org/wp-content/uploads/2018/02/375x200-GLK-2018-US-Festival.jpg"
+      },
+        {
+          "name":"Например",
+          "body":"Сдать тестовое еще раз",
+          "time":"13:00",
+          "img":"https://www.skydivespain.com/wp-content/uploads/instructors-ratings-375x200-1.jpg"
+        }]
+    },
+    {
+      "date": "19.06.2019",
+      "events":[{
+        "name":"Вело-триал",
+        "body":"Покатать на велосипеде",
+        "time":"12:00",
+         "img":"https://marvel-live.freetls.fastly.net/canvas/2018/7/6a92f2b92cff4810849a4a4010adc851?quality=95&fake=.png"
+      },
+        {
+          "name":"Галлерея",
+          "body":"Взгляни на картины как-нибудь для развития",
+          "time":"13:00",
+          "img": "https://www.travelboulder.com/wp-content/uploads/2018/02/NoBoArt-375x200.jpg"
+        },
+        {
+          "name":"Баскетбол",
+          "body":"Поиграй немного с ребятами",
+          "time":"17:00",
+          "img": "http://sportsmadeinusa.com/wp-content/uploads/2018/02/david-robinson-cuadruple-doble-san-antonio-spurs-375x200.jpg"
+        }]
     }
   ]
 }

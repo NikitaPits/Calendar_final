@@ -27,7 +27,7 @@
     border:0;
     font-family: Montserrat, serif;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: bold;
     line-height: 14px;
     width: 59px;
     height: 40px;
@@ -40,7 +40,7 @@
     color: #48C1C2;
     font-family: Montserrat, serif;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: bold;
     line-height: 14px;
     width: 66px;
     height: 40px;
@@ -70,7 +70,7 @@
     color: #FFFFFF;
     font-family: Montserrat, serif;
     font-size: 16px;
-    font-weight: 800;
+    font-weight: bold;
     line-height: 19px;
     text-align: center;
     user-select: none;
@@ -109,26 +109,28 @@
 }
 
 .this_week_button{
-    color: #E6EAEE;
+    color: #E8E9EB;
     line-height: 20px;
     text-align: center;
     width: 100px;
     height: 20px;
+    opacity: 0.5;
     border-radius: 10px;
-    border: 1px solid #E6EAEE;
+    border: 1px solid #E8E9EB;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
     vertical-align: middle;
 }
 .this_month_button{
-    color: #E6EAEE;
+    color: #E8E9EB;
     text-align: center;
     line-height: 20px;
     width: 100px;
     height: 20px;
+    opacity: 0.5;
     border-radius: 10px;
-    border: 1px solid #E6EAEE;
+    border: 1px solid #E8E9EB;
     vertical-align: middle;
     margin-right: 5px;
     user-select: none;

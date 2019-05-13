@@ -11,18 +11,18 @@ class Event_marker extends React.Component {
     render() {
         if (this.props.number === 2) {
             return (
-                <div className='events'>
-                    <div className='event'></div>
-                    <div className='event'></div>
+                <div className='events row'>
+                    <div className='event2'></div>
+                    <div className='event2'></div>
                 </div>
             )
         } else {
             if (this.props.number >= 3) {
                 return (
-                    <div className='events'>
-                        <div className='event'></div>
-                        <div className='event'></div>
-                        <div className='event'></div>
+                    <div className='events row'>
+                        <div className='event3'></div>
+                        <div className='event3'></div>
+                        <div className='event3'></div>
                     </div>
                 )
             }
@@ -35,8 +35,8 @@ class Event_marker extends React.Component {
             )
         }
         return (
-            <>
-                </>
+            <div>
+                </div>
         )
     }
 }

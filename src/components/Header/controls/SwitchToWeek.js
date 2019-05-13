@@ -4,7 +4,6 @@ import {constants} from "../../../utils/constants";
 const {angle_down} = constants;
 const {angle_up} = constants;
 
-let angle = angle_down;
 class SwitchToWeek extends React.Component{
 
     constructor(props){

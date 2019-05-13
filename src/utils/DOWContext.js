@@ -1,7 +1,6 @@
-//import React from "react";
+import React from "react";
+const DOWContext = React.createContext({
+    updateDOW: () => {}
+});
 
-//const DOWContext = React.createContext({
-  //  updateDOW: () => {}
-//});
-
-//export default DOWContext;
+export default DOWContext;
